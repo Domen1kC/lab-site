@@ -16,6 +16,13 @@ header {
   padding-top: 0 !important;
   padding-bottom: 0 !important; }
 
+.navbar-brand {
+  padding-top: 1rem;
+  padding-bottom: .9375rem;
+  padding-right: 1rem;
+  border-right: 1px solid grey;
+  margin-right: 1.375rem; }
+
 .btn-Signin {
   background: #21C87A;
   width: 98px;
@@ -133,13 +140,13 @@ input {
   background-color: #21c87a; }
 
 .tab-vertical .tab-vertical__nav-link {
-  color: #646f79;
+  color: #646F79;
   font-weight: 400;
   border-radius: 0;
   padding-left: 0; }
 
 .tab-vertical .tab-vertical__nav-link.active {
-  color: #21c87a;
+  color: #21C87A;
   background-color: transparent; }
 
 .tab-vertical-md .tab-vertical__nav-link {
@@ -159,13 +166,13 @@ input {
   content: " "; }
 
 .tab-vertical-md .tab-vertical__nav-link.active::after {
-  background-color: #21c87a; }
+  background-color: #21C87A; }
 
 .options {
   padding-right: 60px; }
 
 a {
-  color: #21c87a;
+  color: #21C87A;
   text-decoration: none;
   background-color: transparent; }
 
